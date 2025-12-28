@@ -213,7 +213,7 @@ python ensemble/ensemble_main.py
     <li><strong>Statistical overlap</strong>: Minimal separation in basic statistics (mean, std, kurtosis, skewness)</li>
 </ul>
 
-<img src="./readme-images/statistical_decision_boundary.png" max-height="400px">
+<img src="./readme-images/images_statystical_analysis.png" max-height="400px">
 
 <h3>Baseline Model Results</h3>
 
